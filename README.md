@@ -1,4 +1,3 @@
-# bargainbuy-backend
 # BargainBuy - Ecommerce Web App
 
 This is a full stack MERN application created by me alone. Developed with MongoDB, Express, React, Redux, and Node.
